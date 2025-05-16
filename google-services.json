@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "45709476290",
+    "project_id": "arkosh-angkotku",
+    "storage_bucket": "arkosh-angkotku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45709476290:android:cf1cf2f6a0826fd9acd65b",
+        "android_client_info": {
+          "package_name": "org.arkosh.angkotku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45709476290-2vldje135m4chsi3m5o4q65co73c0rqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClNPFpHi0kM1Wm9O0kBrE3QNYFShyFcdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45709476290-2vldje135m4chsi3m5o4q65co73c0rqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
